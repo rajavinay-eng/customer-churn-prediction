@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# customer-churn-prediction
 
 Predict whether a telecom customer will churn using machine learning.
 
